@@ -50,3 +50,14 @@ print(row_lst)
 print(type(row_lst))
 
 
+list1 = [1, 2, 3, 4]
+list1.append(5)
+print(list1)
+print(list1.index(4))
+
+list1.insert(2, "insert")
+print(list1)
+
+
+list1.remove("insert")
+print(list1)

@@ -10,13 +10,13 @@
 # print(hex(63))
 # print(hex(120))
 
-## Binary
-print(bin(1))
-print(bin(10))
-print(bin(1000))
-
-## Pow
-print(pow(2, 4))
-print(pow(9, 2))
-print(pow(10, 10))
+# ## Binary
+# print(bin(1))
+# print(bin(10))
+# print(bin(1000))
+#
+# ## Pow
+# print(pow(2, 4))
+# print(pow(9, 2))
+# print(pow(10, 10))
 
